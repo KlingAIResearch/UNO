@@ -30,7 +30,7 @@ pip install flash_attn==2.5.8 --no-build-isolation
 
 ## Training
 
-1. Download example data under `data_example/`
+1. Download [example data](https://huggingface.co/datasets/shuidi0020/UNO_sample) under `data_example/`
 
 ```
 data_example
