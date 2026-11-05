@@ -98,8 +98,8 @@ PYTHONPATH=$(pwd) scripts/eval/run_gedit.sh
 
 | Model           | Link                                                         |
 | --------------- | ------------------------------------------------------------ |
-| UNO_Gen  | [link](TODO) |
-| UNO_Edit | [link](TODO) |
+| UNO_Gen  | [link](https://huggingface.co/shuidi0020/UNO/tree/main/uno_gen) |
+| UNO_Edit | [link](https://huggingface.co/shuidi0020/UNO/tree/main/uno_edit) |
 
 
 ## :mailbox_with_mail: Contact
