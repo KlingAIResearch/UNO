@@ -2,6 +2,7 @@
 
 <a href='https://arxiv.org/abs/2605.05781'><img src='https://img.shields.io/badge/Arxiv-2605.05781-red'>
 <a href='https://lzy-tony.github.io/uno'><img src='https://img.shields.io/badge/Project Page-UNO-green'>
+<a href='https://huggingface.co/shuidi0020/UNO'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'>
 
 This is the official implementation of the NeurIPS 2026 paper  [Steering Visual Generation in Unified Multimodal Models with Understanding Supervision](https://arxiv.org/abs/2605.05781).
 
